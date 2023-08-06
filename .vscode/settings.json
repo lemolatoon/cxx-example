@@ -1,9 +1,0 @@
-{
-    // "rust-analyzer.cargo.target": "thumbv7em-none-eabihf",
-    "files.associations": {
-        "array": "cpp",
-        "string": "cpp",
-        "string_view": "cpp",
-        "memory": "cpp"
-    },
-}
